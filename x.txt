@@ -1,4 +1,4 @@
-function sum (x,y,r) {
- return r ? x+y : x-y;
+function sum (x,y,z,r) {
+ return r ? x+y+z : x-y-z;
 }
 
